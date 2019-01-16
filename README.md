@@ -1,2 +1,2 @@
 # python
-python flask project
+python project
